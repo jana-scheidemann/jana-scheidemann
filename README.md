@@ -1,8 +1,15 @@
 # 👋🏻 Welcome to my profile!
 
-My name is Jana and I am a web developer in progress 💾 👩🏻‍💻
+I am a web dev newbie 👩🏻‍💻 but the passion for coding kicked in fast 😍
+From january to april 2024 I attended a web dev bootcamp at [neuefische](https://github.com/neuefische) where I learned a lot in a very short time.
+But now I am hooked! REACT-style 😉
 
-In my pre-IT life I worked in different fields, for example in HR, I also sold ice-cream in Spain, helped people as a Life Coach, organized diversity workshops for young adults because [diversity matters](https://www.brownsbfs.co.uk/Content/Storefront/assets/images/Diversity-Matters/Diversity-Matters-Banner.png) and much more.
+In my pre-IT life I worked in a variety of fields: 
+- in HR for a train company
+- I organized diversity workshops for young adults
+- as a Life Coach
+- I also sold ice-cream in Spain
+... to mention a few.
 
 I am also passionate about:
 - travelling 🌎 because the world has a lot of beautiful & interesting places and a change of perspective is always good,
